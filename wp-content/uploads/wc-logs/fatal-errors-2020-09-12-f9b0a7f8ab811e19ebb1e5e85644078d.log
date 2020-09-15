@@ -1,0 +1,26 @@
+2020-09-12T19:31:04+00:00 CRITICAL Out of memory (allocated 39845888) (tried to allocate 20480 bytes) en C:\xampp\htdocs\wordpress\wordpress\wp-admin\includes\class-wp-site-health.php en la línea 2241
+
+2020-09-12T19:31:10+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 8192 bytes) en C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woocommerce\includes\tracks\events\class-wc-coupons-tracking.php en la línea 68
+
+2020-09-12T19:31:10+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 8192 bytes) en C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woocommerce\includes\tracks\events\class-wc-coupons-tracking.php en la línea 68
+
+2020-09-12T19:31:10+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 8192 bytes) en C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woocommerce\includes\tracks\events\class-wc-coupons-tracking.php en la línea 68
+
+2020-09-12T19:31:10+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 8192 bytes) en C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woocommerce\includes\tracks\events\class-wc-coupons-tracking.php en la línea 68
+
+2020-09-12T19:31:10+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 8192 bytes) en C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woocommerce\includes\tracks\events\class-wc-coupons-tracking.php en la línea 68
+
+2020-09-12T19:31:10+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 8192 bytes) en C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woocommerce\includes\tracks\events\class-wc-coupons-tracking.php en la línea 68
+
+2020-09-12T19:31:13+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 8192 bytes) en C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woocommerce\includes\tracks\events\class-wc-coupons-tracking.php en la línea 68
+
+2020-09-12T19:31:47+00:00 CRITICAL Out of memory (allocated 60817408) (tried to allocate 983040 bytes) en C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\AssetDataRegistry.php en la línea 229
+
+2020-09-12T19:31:47+00:00 CRITICAL Out of memory (allocated 20971520) (tried to allocate 983040 bytes) en C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\AssetDataRegistry.php en la línea 229
+
+2020-09-12T19:31:47+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 983040 bytes) en C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\AssetDataRegistry.php en la línea 229
+
+2020-09-12T19:31:47+00:00 CRITICAL Out of memory (allocated 16777216) (tried to allocate 983040 bytes) en C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\AssetDataRegistry.php en la línea 229
+
+2020-09-12T19:31:47+00:00 CRITICAL Out of memory (allocated 60817408) (tried to allocate 983040 bytes) en C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\AssetDataRegistry.php en la línea 229
+

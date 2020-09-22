@@ -35,16 +35,18 @@ if ( ! function_exists( 'shop_isle_primary_navigation' ) ) {
 				}
 			}
 		} else {
-			
+			if ( 'posts' == get_option( 'show_on_front' ) && is_front_page() ) {
+				$shop_isle_front_page_case = 1;
+			}
 		}
 
 		if ( $shop_isle_front_page_case ) {
-			$navbar_class .= '  navbar-transparent ';
+			$navbar_class .= ' navbar-color-on-scroll navbar-transparent ';
 		}
 
 		?>
 		<!-- Navigation start -->
-		<nav class="navbar>" role="navigation">
+		<nav id="navbar-top" class="navbar navbar-custom navbar-fixed-top <?php echo esc_attr( $navbar_class ); ?>" role="navigation" style="position: absolute;">
 
 		<div class="container">
 		<div class="header-container">
@@ -146,7 +148,7 @@ if ( ! function_exists( 'shop_isle_primary_navigation' ) ) {
 			</div>
 
 		</nav>
-		<!-- Navigation end -->
+		<!-- Navigation end -->	
 		<?php
 	}
 }// End if().

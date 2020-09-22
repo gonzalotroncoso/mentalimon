@@ -4783,7 +4783,7 @@ Scroll to top
 .navbar-header {
 	display: table-cell !important;
 	float: none;
-	width: 230px;
+	width: 150px;
 	vertical-align: middle;
 }
 .header-container {
@@ -5405,6 +5405,9 @@ Responsive Media Querries
 		margin-top: 1px;
 		margin-bottom: 0;
 		letter-spacing: 3px;
+	}
+	.navbar-custom li > a{
+		color:#ffff;
 	}
 
 	.navbar-custom li > a:hover {

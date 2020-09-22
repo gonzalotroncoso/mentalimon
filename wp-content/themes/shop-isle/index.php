@@ -156,7 +156,7 @@ if ( ! empty( $shop_isle_posts_per_page ) && ( $shop_isle_posts_per_page > 0 ) )
 					<!-- Content column end -->
 
 					<!-- Sidebar column start -->
-					<div class="col-sm-4 col-md-3 col-md-offset-1 ">
+					<div class="col-sm-4 col-md-3 col-md-offset-1 sidebar">
 
 						<?php do_action( 'shop_isle_sidebar' ); ?>
 
